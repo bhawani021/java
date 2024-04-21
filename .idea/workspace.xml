@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="68e379e0-5e89-477e-81dd-f40d16b34fff" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/strings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/typeCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/booleans.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ifelse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/maths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methodOvrloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/switchcase.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +42,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.array.executor": "Run",
+    "Application.booleans.executor": "Run",
+    "Application.ifelse.executor": "Run",
+    "Application.loop.executor": "Run",
+    "Application.maths.executor": "Run",
+    "Application.methodOvrloading.executor": "Run",
     "Application.strings.executor": "Run",
+    "Application.switchcase.executor": "Run",
     "Application.typeCasting.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
